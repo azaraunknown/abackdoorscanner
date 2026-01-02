@@ -32,7 +32,7 @@ This project is a Node.js-based script designed to scan directories for potentia
 
 2. **Run the scanner:**
    ```bash
-   node scanner.js
+   node index.js
    ```
 
 3. **Review the results:**
